@@ -10,7 +10,7 @@ public class UsuarioApi {
 
     private static final String URL ="http://jsonplaceholder.typicode.com/";
 
-    private static Retrofit getUsuario(){
+    public static Retrofit getUsuario(){
 
         retrofit = new Retrofit.Builder()
                 .baseUrl(URL)
