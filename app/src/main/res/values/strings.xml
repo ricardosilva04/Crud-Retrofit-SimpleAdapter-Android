@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">App Retrofit CRUD</string>
+    <string name="hintId">Informe sua ID!</string>
+    <string name="hintNome">Informe seu Nome!</string>
+    <string name="hintUsername">Informe seu Usuário</string>
 </resources>
